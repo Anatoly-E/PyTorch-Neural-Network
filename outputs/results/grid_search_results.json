@@ -1,0 +1,118 @@
+{
+  "best_params": {
+    "lr": 0.001,
+    "batch_size": 64,
+    "optimizer": "Adam",
+    "accuracy": 86.77
+  },
+  "all_results": [
+    {
+      "lr": 0.1,
+      "batch_size": 32,
+      "optimizer": "SGD",
+      "accuracy": 85.88
+    },
+    {
+      "lr": 0.1,
+      "batch_size": 32,
+      "optimizer": "Adam",
+      "accuracy": 71.14
+    },
+    {
+      "lr": 0.1,
+      "batch_size": 64,
+      "optimizer": "SGD",
+      "accuracy": 85.69
+    },
+    {
+      "lr": 0.1,
+      "batch_size": 64,
+      "optimizer": "Adam",
+      "accuracy": 79.69
+    },
+    {
+      "lr": 0.1,
+      "batch_size": 128,
+      "optimizer": "SGD",
+      "accuracy": 86.55
+    },
+    {
+      "lr": 0.1,
+      "batch_size": 128,
+      "optimizer": "Adam",
+      "accuracy": 82.94
+    },
+    {
+      "lr": 0.01,
+      "batch_size": 32,
+      "optimizer": "SGD",
+      "accuracy": 85.75
+    },
+    {
+      "lr": 0.01,
+      "batch_size": 32,
+      "optimizer": "Adam",
+      "accuracy": 86.09
+    },
+    {
+      "lr": 0.01,
+      "batch_size": 64,
+      "optimizer": "SGD",
+      "accuracy": 85.92
+    },
+    {
+      "lr": 0.01,
+      "batch_size": 64,
+      "optimizer": "Adam",
+      "accuracy": 86.19
+    },
+    {
+      "lr": 0.01,
+      "batch_size": 128,
+      "optimizer": "SGD",
+      "accuracy": 86.2
+    },
+    {
+      "lr": 0.01,
+      "batch_size": 128,
+      "optimizer": "Adam",
+      "accuracy": 86.49
+    },
+    {
+      "lr": 0.001,
+      "batch_size": 32,
+      "optimizer": "SGD",
+      "accuracy": 84.81
+    },
+    {
+      "lr": 0.001,
+      "batch_size": 32,
+      "optimizer": "Adam",
+      "accuracy": 86.0
+    },
+    {
+      "lr": 0.001,
+      "batch_size": 64,
+      "optimizer": "SGD",
+      "accuracy": 84.2
+    },
+    {
+      "lr": 0.001,
+      "batch_size": 64,
+      "optimizer": "Adam",
+      "accuracy": 86.77
+    },
+    {
+      "lr": 0.001,
+      "batch_size": 128,
+      "optimizer": "SGD",
+      "accuracy": 82.42
+    },
+    {
+      "lr": 0.001,
+      "batch_size": 128,
+      "optimizer": "Adam",
+      "accuracy": 86.48
+    }
+  ]
+}
